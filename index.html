@@ -2,18 +2,15 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ASEGURADOS</title>
-  <meta name="theme-color" content="#0a55a0" />
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#0a55a0" />
   <link rel="icon" href="icons/icon-192.png">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="phone">
   <header class="app-header">
     <h1>ASEGURADOS</h1>
     <button id="installBtn" class="btn secondary" hidden>Instalar</button>
@@ -26,7 +23,6 @@
         <button id="clearSearch" class="btn ghost">Limpiar</button>
       </div>
       <div class="actions">
-        <button id="resetDataBtn" class="btn">Restaurar Padrón Inicial</button>
         <button id="addBtn" class="btn primary">Agregar Persona</button>
         <button id="exportJsonBtn" class="btn">Exportar Backup (JSON)</button>
         <label class="file-label btn">
@@ -60,20 +56,36 @@
     </section>
   </main>
 
-  <section class="install-help" id="installHelp">
-    <details>
-      <summary>¿No ves el botón “Instalar”?</summary>
-      <ol>
-        <li><b>Android/Chrome:</b> Menú ⋮ → <i>Instalar app</i> o <i>Añadir a la pantalla principal</i>.</li>
-        <li><b>iPhone (Safari):</b> Botón <i>Compartir</i> → <i>Añadir a pantalla de inicio</i>.</li>
-      </ol>
-    </details>
-  </section>
+  <dialog id="modal">
+    <form id="modalForm" method="dialog">
+      <h3 id="modalTitle">Agregar Persona</h3>
+      <div class="grid">
+        <label>DNI (8 dígitos)
+          <input id="dniInput" maxlength="8" pattern="\d{7,8}" required />
+        </label>
+        <label>Apellido
+          <input id="apellidoInput" required />
+        </label>
+        <label>Nombre
+          <input id="nombreInput" required />
+        </label>
+        <label>Estado
+          <select id="estadoInput">
+            <option value="PAGO">PAGO</option>
+            <option value="DEBE">DEBE</option>
+          </select>
+        </label>
+      </div>
+      <menu>
+        <button value="cancel" class="btn ghost">Cancelar</button>
+        <button id="saveBtn" value="default" class="btn primary">Guardar</button>
+      </menu>
+    </form>
+  </dialog>
 
   <footer class="app-footer">
     <small>App PWA - Control de asegurados. Funciona offline. Hecha para Leo.</small>
   </footer>
-  </div>
 
   <script src="app.js"></script>
 </body>
