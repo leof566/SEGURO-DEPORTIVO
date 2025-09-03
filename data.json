@@ -1,0 +1,836 @@
+[
+  {
+    "dni": "45981977",
+    "apellido": "Aballay Canto",
+    "nombre": "Isaias Santiago",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34657128",
+    "apellido": "Aballay Rafael",
+    "nombre": "Exequiel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30092306",
+    "apellido": "Aballay Raul",
+    "nombre": "Oscar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "47486619",
+    "apellido": "Acosta Heredia",
+    "nombre": "Patricio Gabriel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "27574259",
+    "apellido": "Acosta Nelson",
+    "nombre": "Mauro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "23634351",
+    "apellido": "Aguero Pablo",
+    "nombre": "Gustavo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33183890",
+    "apellido": "Aguilera Carrizo",
+    "nombre": "Luis Alan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33234138",
+    "apellido": "Aguilera Hector",
+    "nombre": "Raul",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "23399568",
+    "apellido": "Aguilera Javier",
+    "nombre": "Americo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "41721122",
+    "apellido": "Aguilera Kevin",
+    "nombre": "Alejandro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40592265",
+    "apellido": "Aguilera Lepez",
+    "nombre": "Matias Nicolas",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31278241",
+    "apellido": "Aguirre Juan",
+    "nombre": "Alberto",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38594150",
+    "apellido": "Albornoz Cristian",
+    "nombre": "Eduardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39376521",
+    "apellido": "Almagro Sanchez",
+    "nombre": "Juan Marcos",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39790545",
+    "apellido": "Aracena Aguilera",
+    "nombre": "Lucas Hernan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "14714047",
+    "apellido": "Aracena Carlos",
+    "nombre": "Dante",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36544153",
+    "apellido": "Aracena Jonathan",
+    "nombre": "Emanuel Luna",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40264322",
+    "apellido": "Arancibia Ezequiel",
+    "nombre": "Alejandro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33824634",
+    "apellido": "Arce German",
+    "nombre": "David",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35181836",
+    "apellido": "Arevalo Diaz",
+    "nombre": "Jonathan Gabriel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31496690",
+    "apellido": "Arevalo Olivera",
+    "nombre": "Victor Hugo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34918300",
+    "apellido": "Arias Federico",
+    "nombre": "Rafael",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30349072",
+    "apellido": "Astudillo Daniel",
+    "nombre": "Martin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35511628",
+    "apellido": "Avalo Almagro",
+    "nombre": "Mario Guillermo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34094837",
+    "apellido": "Avalos Fernando",
+    "nombre": "Gabriel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31871201",
+    "apellido": "Balmaceda Walter",
+    "nombre": "David",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30056174",
+    "apellido": "Barsola Miguel",
+    "nombre": "Fernando",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39011304",
+    "apellido": "Bermejo Bruno",
+    "nombre": "Exequiel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46544364",
+    "apellido": "Bustos Illa",
+    "nombre": "Kevin Samuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39792306",
+    "apellido": "Carbajal Arias",
+    "nombre": "Franco Nahuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36544002",
+    "apellido": "Cardozo Leonardo",
+    "nombre": "Emmanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38462393",
+    "apellido": "Carrizo Ivan",
+    "nombre": "Gabriel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "43555353",
+    "apellido": "Carrizo Lucas",
+    "nombre": "Emmanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39009753",
+    "apellido": "Castillo Carlos",
+    "nombre": "Tomas",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35853167",
+    "apellido": "Castro Jorge",
+    "nombre": "Ricardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40591275",
+    "apellido": "Castro Moreno",
+    "nombre": "Emilio Nicolas",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39791675",
+    "apellido": "Cayo Santiago",
+    "nombre": "Javier",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35511133",
+    "apellido": "Cerezo Sergio",
+    "nombre": "Ruben",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "37507263",
+    "apellido": "Chaparro Pueye",
+    "nombre": "Juan Jaime",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36911416",
+    "apellido": "Colarte Bruno",
+    "nombre": "Leonel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38463353",
+    "apellido": "Cornejo Alvarado",
+    "nombre": "Pablo Daniel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "52887688",
+    "apellido": "Corrales Gallardo",
+    "nombre": "Renata",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40470432",
+    "apellido": "Cortez Monardez",
+    "nombre": "Maria Eugenia",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "27918443",
+    "apellido": "Cortez Pereyra",
+    "nombre": "Hugo Isidro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33337640",
+    "apellido": "Daniel Julio",
+    "nombre": "Angel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30631720",
+    "apellido": "Diaz Baez",
+    "nombre": "Mario Alejandro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "32376461",
+    "apellido": "Diaz Hector",
+    "nombre": "Washington",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34459566",
+    "apellido": "Diaz Leonardo",
+    "nombre": "Franco",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33625589",
+    "apellido": "Diaz Matias",
+    "nombre": "Norberto",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "47047408",
+    "apellido": "Dominguez Enzo",
+    "nombre": "Agustin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34054780",
+    "apellido": "Dominguez Matias",
+    "nombre": "Alfredo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "32168044",
+    "apellido": "Donoso Roque",
+    "nombre": "Omar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "41157314",
+    "apellido": "Donoso Rosales",
+    "nombre": "Franco Matias",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "47046713",
+    "apellido": "Espinosa Abarca",
+    "nombre": "Cesar Mijail",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "37833408",
+    "apellido": "Ferreyra Rodrigo",
+    "nombre": "Oscar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40592230",
+    "apellido": "Flores Matias",
+    "nombre": "Nicolas",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35734525",
+    "apellido": "Gallardo Carla",
+    "nombre": "Betiana",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "48271008",
+    "apellido": "Garcia Paez",
+    "nombre": "Pablo German",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "27488680",
+    "apellido": "Gattas Sosa",
+    "nombre": "Alberto Martin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33836382",
+    "apellido": "Gelvez Ariel",
+    "nombre": "Mauricio",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "32353229",
+    "apellido": "Gimenez Claudio",
+    "nombre": "Cesar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "41297065",
+    "apellido": "Gimenez Javier",
+    "nombre": "Omar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30835846",
+    "apellido": "Gimenez Jorge",
+    "nombre": "Luis",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "24724155",
+    "apellido": "Gimenez Maximiliano",
+    "nombre": "Carlos",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38594293",
+    "apellido": "Gimeno Alejandro",
+    "nombre": "Ariel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "32939238",
+    "apellido": "Gomez Emanuel",
+    "nombre": "Ivan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29269982",
+    "apellido": "Gonzalez Daniel",
+    "nombre": "Alberto",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36251506",
+    "apellido": "Gonzalez Diego",
+    "nombre": "Adrian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "28720611",
+    "apellido": "Gonzalez Jorge",
+    "nombre": "David",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34875721",
+    "apellido": "Gonzalez Nestor",
+    "nombre": "Leonardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "26301695",
+    "apellido": "Gonzalez Ricardo",
+    "nombre": "Javier",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "45263673",
+    "apellido": "Gonzalez Vargas",
+    "nombre": "Brian Ariel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33836496",
+    "apellido": "Guevara Diego",
+    "nombre": "Sebastian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34657123",
+    "apellido": "Guevara Eduardo",
+    "nombre": "Luis",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36251712",
+    "apellido": "Herrera Cortez",
+    "nombre": "Alfredo Yamil",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "27276191",
+    "apellido": "Horca German",
+    "nombre": "Guillermo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40470549",
+    "apellido": "Ibazeta Carlos",
+    "nombre": "Emanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34699027",
+    "apellido": "Irrazabal Escobar",
+    "nombre": "Lucas Daniel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29155452",
+    "apellido": "Jofre Emanuel",
+    "nombre": "Alexis",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36251390",
+    "apellido": "Luna Aracena",
+    "nombre": "Angel Ezequiel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "37005413",
+    "apellido": "Luna Mariano",
+    "nombre": "Ariel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34194301",
+    "apellido": "Luna Morales",
+    "nombre": "Farnado Adrian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33319003",
+    "apellido": "Luna Navarta",
+    "nombre": "Nestor Emmanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "43838179",
+    "apellido": "Manrique Agustin",
+    "nombre": "Sebastian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38459612",
+    "apellido": "Manrique Garcias",
+    "nombre": "Adrian Javier",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "37650087",
+    "apellido": "Mari Mario",
+    "nombre": "Jesus",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "53554705",
+    "apellido": "Marras Vivarez",
+    "nombre": "Noha Genaro",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46071965",
+    "apellido": "Martinez Luciano",
+    "nombre": "Nicolas",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38462408",
+    "apellido": "Matus Jose",
+    "nombre": "Ramon",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38217628",
+    "apellido": "Mellert Federico",
+    "nombre": "Emanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "45634172",
+    "apellido": "Moran Alex",
+    "nombre": "Ruben",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "27548551",
+    "apellido": "Moran Gustavo",
+    "nombre": "Ruben",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "54565616",
+    "apellido": "Munoz Dario",
+    "nombre": "Daniel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46258747",
+    "apellido": "Muñoz Alberto",
+    "nombre": "Enrique",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31731907",
+    "apellido": "Muñoz Emiliano",
+    "nombre": "Antonio",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34329045",
+    "apellido": "Muñoz Miguel",
+    "nombre": "Gerardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "51195967",
+    "apellido": "Muñoz Natalia",
+    "nombre": "Daniela",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46258748",
+    "apellido": "Muñoz Raul",
+    "nombre": "Antonio",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36543664",
+    "apellido": "Muñoz Sebastian",
+    "nombre": "Martin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "54150356",
+    "apellido": "Muñoz Sergio",
+    "nombre": "Francisco",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "28539989",
+    "apellido": "Navarro Diego",
+    "nombre": "Ivan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31214236",
+    "apellido": "Nuñez Daniel",
+    "nombre": "Gaston",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29796528",
+    "apellido": "Nuñez Lucas",
+    "nombre": "Maximiliano",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36253438",
+    "apellido": "Olivares Juan",
+    "nombre": "Cruz",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35734639",
+    "apellido": "Olivarez Quiroga",
+    "nombre": "Diego Ivan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29529586",
+    "apellido": "Paez Charra",
+    "nombre": "Carlos Gustavo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30111950",
+    "apellido": "Paez Garin",
+    "nombre": "Matias Alejo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "44730109",
+    "apellido": "Paez Jorge",
+    "nombre": "Sebastian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40728513",
+    "apellido": "Perez Cristian",
+    "nombre": "German",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36586303",
+    "apellido": "Perez Espejo",
+    "nombre": "Leonel Exequiel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35510159",
+    "apellido": "Perez Morales",
+    "nombre": "Matias Jesus",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "43156852",
+    "apellido": "Perez Sergio",
+    "nombre": "Agustin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "41122899",
+    "apellido": "Peña Santander",
+    "nombre": "Jeremias Julian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "28243904",
+    "apellido": "Pinto Martin",
+    "nombre": "Leonardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "42917549",
+    "apellido": "Quintanilla Leandro",
+    "nombre": "Andres",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46932840",
+    "apellido": "Quinteros Alexander",
+    "nombre": "Emanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29796626",
+    "apellido": "Rodriguez Hector",
+    "nombre": "Daniel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "29529651",
+    "apellido": "Rosalez Diaz",
+    "nombre": "Dario Victor",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30568174",
+    "apellido": "Rosalez Diaz",
+    "nombre": "Marcos Gerardo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "31637412",
+    "apellido": "Ruiz Mario",
+    "nombre": "Marcelo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "42516655",
+    "apellido": "Saavedra Guzman",
+    "nombre": "Alan Emanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35511501",
+    "apellido": "Saavedra Leonardo",
+    "nombre": "Hector",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30999315",
+    "apellido": "Sanchez Diaz",
+    "nombre": "Juan Carlos",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "34657097",
+    "apellido": "Sanchez Miguel",
+    "nombre": "Angel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "28040906",
+    "apellido": "Santander Duilio",
+    "nombre": "Ernesto",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "42632605",
+    "apellido": "Sillero Alberto",
+    "nombre": "Jesus",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36034894",
+    "apellido": "Silva Arias",
+    "nombre": "Martin Ariel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "47046172",
+    "apellido": "Silva Sergio",
+    "nombre": "Fernando",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36911306",
+    "apellido": "Solar Orlando",
+    "nombre": "Jonathan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "35508141",
+    "apellido": "Soriano",
+    "nombre": "Osvaldo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "42250368",
+    "apellido": "Sosa Arias",
+    "nombre": "Ramiro Julian",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "30568041",
+    "apellido": "Taddei Morales",
+    "nombre": "Carlos Edgar",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "36252121",
+    "apellido": "Valle Emanuel",
+    "nombre": "Alexander",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "40367520",
+    "apellido": "Valle Vallejos",
+    "nombre": "Jorge Hernan",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "46615789",
+    "apellido": "Villafañe Ariel",
+    "nombre": "Alfonzo",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "39008944",
+    "apellido": "Villafañe Hector",
+    "nombre": "Ramon",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "33095562",
+    "apellido": "Villarruel Jorge",
+    "nombre": "Emmanuel",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "38075838",
+    "apellido": "Vivarez Erika",
+    "nombre": "Yasmin",
+    "estado": "DEBE"
+  },
+  {
+    "dni": "42250316",
+    "apellido": "Vivarez Gaston",
+    "nombre": "Eduardo Dario",
+    "estado": "DEBE"
+  }
+]

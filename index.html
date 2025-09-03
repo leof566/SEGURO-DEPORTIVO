@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+  <title>ASEGURADOS</title>
+  <meta name="theme-color" content="#0a55a0" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="phone">
+  <header class="app-header">
+    <h1>ASEGURADOS</h1>
+    <button id="installBtn" class="btn secondary" hidden>Instalar</button>
+  </header>
+
+  <main class="container">
+    <section class="toolbar">
+      <div class="search-group">
+        <input id="searchInput" type="search" placeholder="Buscar por DNI o NOMBRE..." />
+        <button id="clearSearch" class="btn ghost">Limpiar</button>
+      </div>
+      <div class="actions">
+        <button id="resetDataBtn" class="btn">Restaurar Padrón Inicial</button>
+        <button id="addBtn" class="btn primary">Agregar Persona</button>
+        <button id="exportJsonBtn" class="btn">Exportar Backup (JSON)</button>
+        <label class="file-label btn">
+          Importar Backup (JSON/CSV)
+          <input id="importJsonInput" type="file" accept=".json,.csv,application/json,text/csv" hidden />
+        </label>
+        <button id="exportPdfBtn" class="btn">Exportar PDF</button>
+        <button id="alertDebtorsBtn" class="btn danger">Alerta Deudores</button>
+      </div>
+    </section>
+
+    <section class="legend">
+      <span class="badge paid">PAGO</span>
+      <span class="badge due">DEBE</span>
+    </section>
+
+    <section class="table-wrap" id="tableWrap">
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>DNI</th>
+            <th>Apellido</th>
+            <th>Nombre</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+          </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+      </table>
+      <p id="emptyMsg" class="empty" hidden>No hay registros para mostrar.</p>
+    </section>
+  </main>
+
+  <section class="install-help" id="installHelp">
+    <details>
+      <summary>¿No ves el botón “Instalar”?</summary>
+      <ol>
+        <li><b>Android/Chrome:</b> Menú ⋮ → <i>Instalar app</i> o <i>Añadir a la pantalla principal</i>.</li>
+        <li><b>iPhone (Safari):</b> Botón <i>Compartir</i> → <i>Añadir a pantalla de inicio</i>.</li>
+      </ol>
+    </details>
+  </section>
+
+  <footer class="app-footer">
+    <small>App PWA - Control de asegurados. Funciona offline. Hecha para Leo.</small>
+  </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
