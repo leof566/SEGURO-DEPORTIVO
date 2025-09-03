@@ -89,3 +89,60 @@ dialog menu{ display:flex; justify-content:flex-end; gap:8px; padding: 12px 0 4p
   body{ background:#fff; }
   table{ font-size:12px; }
 }
+/* === Mobile 9:16 layout additions (no tocar el resto) === */
+html, body { height: 100%; overflow: hidden; }
+body { min-height: 100dvh; }
+
+/* Contenedor “teléfono”: fuerza pantalla 9:16 y respeta safe areas (iPhone) */
+.phone{
+  height: 100dvh;
+  max-height: 100dvh;
+  width: 100%;
+  max-width: 480px;          /* opcional: cap de ancho típico de celu */
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  padding-top: env(safe-area-inset-top);
+  padding-bottom: env(safe-area-inset-bottom);
+  background: transparent;
+}
+
+/* Header fijo, contenido scroll dentro */
+.app-header{ flex: 0 0 auto; }
+.container{
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;          /* evita doble scroll */
+}
+
+/* La tabla scrollea verticalmente y el resto queda visible */
+.table-wrap{
+  flex: 1 1 auto;
+  overflow: auto;
+}
+
+/* Cabecera de tabla pegada arriba al hacer scroll */
+thead{
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+
+/* Ajustes finos para teléfonos angostos */
+@media (max-width: 420px){
+  table{ font-size: 13px; }
+  th, td{ padding: 8px 6px; }
+  .actions .btn{ padding: 8px 10px; }
+  /* Mantener columna Acciones visible si desborda horizontal (opcional) */
+  th:nth-child(5), td:nth-child(5){
+    position: sticky;
+    right: 0;
+    background: #fff;
+  }
+}
+
+/* En landscape, limitar alto a proporción 9:16 (56.25% del ancho) */
+@media (orientation: landscape){
+  .phone{ max-height: min(100dvh, 56.25vw); }
+}
