@@ -1,5 +1,5 @@
 // Basic offline cache
-const CACHE = "asegurados-cache-v3";
+const CACHE = "asegurados-cache-v4";
 const ASSETS = [
   "./",
   "./index.html",
